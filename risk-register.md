@@ -15,5 +15,3 @@
 
 ---
 
-### **Risk Score Formula**
-`Risk Score Caculation = Likelihood × Impact`
